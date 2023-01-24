@@ -31,7 +31,7 @@ O plano de testes pode ser encontrado em:
 https://docs.google.com/spreadsheets/d/1Z94Zlk4IQkwTGiTK1wAccykdw0VhjqcF8Tuw0A0x2gQ/edit#gid=0
 
 # Como jogar
-O SchoolCare é um jogo Top-Down, ao abrir o jogo basta clicar no botão "jogar" e utilizar as teclas W-A-S-D para movimentar o personagem no mapa.
+O SchoolCare é um jogo Top-Down, ao abrir o jogo basta clicar no botão "jogar" e utilizar as teclas W-A-S-D para movimentar o personagem no mapa, encontre alunos e interaja com eles com a tecla E.
 
 # Objetivo do jogo:
 O Objetivo do jogo é procurar e encontrar alunos que estejam passando por situações desconfortavéis no ambiente escolar, e você tem como objetivo escolher algumas opções que irão aparer na sua tela, cada opção possui uma pontuação interna, quanto mais correta for a opção escolhida, mais pontos você irá ganhar ao final do jogo.

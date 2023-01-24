@@ -16,8 +16,11 @@ O presente artigo tem o objetivo de apresentar uma proposta de solução para es
 Para a organização e documentação do projeto proposto, foram utilizadas as seguintes ferramentas:
 
 •	Trello
+
 •	Figma
+
 •	GameMaker Studio
+
 •	Fl Studio
 
 Para o desenvolvimento do projeto, está sendo e serão utilizadas a seguinte linguagem:

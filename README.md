@@ -1,5 +1,35 @@
 # SchoolCare
-Projeto para conscientização sobre práticas de bullying.
+RESUMO
+
+De acordo com Instituto Brasileiro de Geografia e Estáticas (IBGE), 40% dos estudantes adolescentes admitiu já ter sofrido com o “bullying”, esse é um número que vem aumentando ao passar dos anos, fato que vem se tornando cada vez mais preocupante no Brasil. Partindo deste problema, este projeto deve apresentar uma iniciativa de projeto que visa conscientizar crianças e adolescentes sobre o “bullying” com uma linguagem que seja mais fácil de conquistá-los, através dos jogos. Um jogo onde o jogador deverá interagir com personagens, conhecer sua história e identificar se houve ou não um caso de “bullying”.
+
+#	INTRODUÇÃO
+
+De acordo com Instituto Brasileiro de Geografia e Estáticas (IBGE) um percentual superior a 40% dos estudantes adolescentes admitiu já ter sofrido com a prática de “bullying”, de provocação e intimidação, e 24% dizem que vida “não vale a pena”. A mesma pesquisa em 2009 apontava 30,9% para a mesma pergunta, esse número vem aumentando com o decorrer dos anos. (Patrícia Figueiredo, 2021).
+  
+Com esses avanços, as consequências disso podem mudar o rumo da vida do adolescente. Além de terem notas mais baixas, os jovens que sofrem bullying têm mais chances de abandonarem os estudos e não seguirem para o ensino superior. (Persono, 2022).
+  
+O presente artigo tem o objetivo de apresentar uma proposta de solução para estes casos, conscientizando crianças e adolescentes com uma linguagem mais comum para estes, os jogos. 
+
+# O projeto
+
+Para a organização e documentação do projeto proposto, foram utilizadas as seguintes ferramentas:
+
+•	Trello
+•	Figma
+•	GameMaker Studio
+•	Fl Studio
+
+Para o desenvolvimento do projeto, está sendo e serão utilizadas a seguinte linguagem:
+
+•	GML
+
+O protótipo das telas pode ser encontrado em: 
+https://www.figma.com/file/GO6QSuTYaQ0kVC7BWTu05t/SchoolCare?node-id=0%3A1&t=aSB7utxWvBR89PMk-0
+
+O plano de testes pode ser encontrado em:
+https://docs.google.com/spreadsheets/d/1Z94Zlk4IQkwTGiTK1wAccykdw0VhjqcF8Tuw0A0x2gQ/edit#gid=0
+
 # Como jogar
 O SchoolCare é um jogo Top-Down, ao abrir o jogo basta clicar no botão "jogar" e utilizar as teclas W-A-S-D para movimentar o personagem no mapa.
 

@@ -10,7 +10,7 @@ Ao completar todas as tarefas do jogo, você tera será redirecionado a um quiz,
 
 # Ferramentas Utilizadas:
 ##### __GameMaker__
-<image src ="C:\Users\Henrique\Downloads\gamemaker-studio-2-logo.png" height="110px">
+<image src ="https://user-images.githubusercontent.com/86853926/214434176-83cc962d-5a3a-413e-b5c8-64313bc899c8.png" height="110px">
   GameMaker é a a ferramenta que usamos para o motor do nosso jogo, la criamos os sprites, movimentação e damos vida a cada detalhe dentro do game.
   
 

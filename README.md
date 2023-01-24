@@ -49,6 +49,9 @@ GameMaker é a a ferramenta que usamos para o motor do nosso jogo, la criamos os
 
 ##### __GML__
 GML é a linguagem utilizada na GameMaker, onde criamos os scripits utilizados no jogo e seus eventos.
+  
+  
+  <image src ="https://user-images.githubusercontent.com/86853926/214437416-d1b2de66-7b02-4452-b50d-c419e53b9762.png" height="110px">
 
   
   
